@@ -1,8 +1,11 @@
 This is a flutter mobile app used for notes.
-
 It adds, updates, deletes notes and also restores deleted notes.
-
 Firebase firestore is used for backend. 
+
+
+
+
+Screenshots of UI:
 
 ![1](https://user-images.githubusercontent.com/43486873/116781849-3590b800-aaa3-11eb-9cf6-eecf2c842df0.jpeg)
 ![2](https://user-images.githubusercontent.com/43486873/116781850-375a7b80-aaa3-11eb-846f-6cbb87e1c99d.jpeg)
